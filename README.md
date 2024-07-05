@@ -17,17 +17,7 @@
 6. 作者及联系方式 (Author and Contact)
 作者：42ccode
 联系方式：42ccode@gmail.com
-7. 目前暂时只支持以下城市: (待后续更新···)
-{
-  "北京": "BJP",
-  "上海": "SHH",
-  "天津": "TJP",
-  "重庆": "CQW",
-  "武汉": "WHN",
-  "昆明": "KMM",
-  "深圳": "SZQ",
-  "郑州": "ZZF"
-}
+   城市目前已经全部开通!
 8.Train Schedule Query Program README
 1. Data Source Analysis
 Fetching data from the 12306 train ticket query API through packet capture analysis.
@@ -47,13 +37,4 @@ Include screenshots or output samples of the program in action.
 6. Author and Contact Information
 Author: 42ccode
 Contact: 42ccode@gmail.com
-7. Currently only the following cities are supported: (to be updated later...){
-  "北京": "BJP",
-  "上海": "SHH",
-  "天津": "TJP",
-  "重庆": "CQW",
-  "武汉": "WHN",
-  "昆明": "KMM",
-  "深圳": "SZQ",
-  "郑州": "ZZF"
-}
+7. Currently all of city are supported
